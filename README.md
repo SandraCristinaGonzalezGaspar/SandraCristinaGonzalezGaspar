@@ -3,7 +3,7 @@
 <p>
 Mi nombre es Sandra Cristina González Gaspar, soy estudiante de la Universidad Autonoma "Benito Juárez" de Oaxaca,
 en la Escuela de Ciencias en la Licenciatura de Computación.
-Me encuentro en los semestres casi finales de mi carrera. He programado en lenguajes como C++, Java y TypeScript,
+Me encuentro concluyendo mi carrera. He programado en lenguajes como C++, Java y TypeScript,
 apenas estoy en proceso de aprender nuevos.
 
 Pueden encontrarme en Facebook e Instagram
